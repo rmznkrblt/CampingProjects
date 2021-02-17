@@ -6,7 +6,7 @@ using Entities.Concrete;
 
 namespace Business.Abstract
 {
-    public interface CarService
+    public interface ICarService
     {
         List<Car> GetAll();
         List<Car> GetCarsByBrandId(int id);

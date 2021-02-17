@@ -9,7 +9,7 @@ using Entities.Concrete;
 
 namespace Business.Concrete
 {
-    public class CarManager : CarService
+    public class CarManager : ICarService
     {
         private ICarDal _cars;
 
