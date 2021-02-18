@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3oDSETCX/xsaEO74OV+L3zj+McmsWPsvtQBo10/bSliQAunDrEuepRUAm7Ct//yeEOPqlRiUq5uKCAPBitTfA==",
+  "success": true,
+  "projectFilePath": "G:\\Project\\c# project\\GitHub\\CampingProjects\\7. Hafta\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
