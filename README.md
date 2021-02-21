@@ -1,5 +1,5 @@
 # CampingProjects
 
 
- Bu repository de bütün ödevleri bulabilirsiniz. Ödevlerin son hallerine aşağıdaki linklerden ulaşabiliriniz.
+ Bu repository de bütün ödevleri bulabilirsiniz. Ödevlerin son haline [buradan](https://github.com/rmznkrblt/CarRental-ReCapProject) ulaşabiliriniz.
 
